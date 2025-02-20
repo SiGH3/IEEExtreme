@@ -1,0 +1,3 @@
+﻿  chat.cpp
+E:\code\cpp\IEEEXTREME\10_26\icarus\icarus\chat.cpp(13,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  icarus.vcxproj -> E:\code\cpp\IEEEXTREME\10_26\icarus\icarus\x64\Debug\icarus.exe
