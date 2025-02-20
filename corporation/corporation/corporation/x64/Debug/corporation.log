@@ -1,0 +1,12 @@
+﻿  chat.cpp
+E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(27,25): error C3861: “gcd”: 找不到标识符
+E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(56,13): error C2664: “void process_query(const std::vector<__int64,std::allocator<__int64>> &,int,int,std::vector<std::pair<__int64,__int64>,std::allocator<std::pair<__int64,__int64>>> &)”: 无法将参数 1 从“std::vector<int,std::allocator<int>>”转换为“const std::vector<__int64,std::allocator<__int64>> &”
+      E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(56,27):
+      原因如下: 无法从“std::vector<int,std::allocator<int>>”转换为“const std::vector<__int64,std::allocator<__int64>>”
+      E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(56,27):
+      没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+      E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(23,6):
+      参见“process_query”的声明
+      E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\chat.cpp(56,13):
+      尝试匹配参数列表“(std::vector<int,std::allocator<int>>, int, int, std::vector<std::pair<__int64,__int64>,std::allocator<std::pair<__int64,__int64>>>)”时
+  

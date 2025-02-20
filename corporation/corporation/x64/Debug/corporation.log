@@ -1,0 +1,6 @@
+﻿  chat.cpp
+  spark.cpp
+E:\code\cpp\IEEEXTREME\10_27\corporation\corporation\spark.cpp(59,10): warning C4244: “/=”: 从“__int64”转换到“int”，可能丢失数据
+  test.cpp
+  正在生成代码...
+  corporation.vcxproj -> E:\code\cpp\IEEEXTREME\10_27\corporation\x64\Debug\corporation.exe

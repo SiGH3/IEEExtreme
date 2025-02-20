@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\code\cpp\IEEEXTREME\10_27\digits swap\digits swap\test.cpp(16,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  digits swap.vcxproj -> E:\code\cpp\IEEEXTREME\10_27\digits swap\digits swap\x64\Debug\digits swap.exe
