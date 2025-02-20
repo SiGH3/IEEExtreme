@@ -1,0 +1,8 @@
+﻿  example.cpp
+  test.cpp
+E:\code\cpp\IEEEXTREME\10_24\twoprogressions\twoprogressions\test.cpp(76,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\cpp\IEEEXTREME\10_24\twoprogressions\twoprogressions\test.cpp(103,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\cpp\IEEEXTREME\10_24\twoprogressions\twoprogressions\test.cpp(130,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\cpp\IEEEXTREME\10_24\twoprogressions\twoprogressions\test.cpp(157,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  twoprogressions.vcxproj -> E:\code\cpp\IEEEXTREME\10_24\twoprogressions\x64\Debug\twoprogressions.exe
